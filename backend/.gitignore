@@ -1,0 +1,11 @@
+.env
+.idea/
+.vscode/
+bin/
+*.exe
+coverage.out
+
+# Keep sample photos out of Git; the directory itself is documented.
+testdeseasePhotos/*
+!testdeseasePhotos/.gitkeep
+!testdeseasePhotos/README.md
