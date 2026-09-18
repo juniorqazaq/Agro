@@ -1,0 +1,46 @@
+[
+  {
+    "id": "tomato_early_blight",
+    "plant": "Tomato",
+    "disease_name": "Early Blight",
+    "disease_name_ru": "Альтернариоз (ранняя сухая пятнистость)",
+    "scientific_name": "Alternaria solani",
+    "symptoms": [
+      "Dark circular spots with concentric rings on older leaves",
+      "Yellowing of leaf tissue surrounding the spots",
+      "Premature leaf drop starting from the bottom of the plant",
+      "Dark, sunken lesions on the stem near the soil line"
+    ],
+    "treatment": [
+      "Remove and destroy infected lower leaves immediately",
+      "Improve air circulation by proper spacing and staking",
+      "Water at the base of the plant to keep foliage dry",
+      "Apply copper-based fungicides if the infection spreads"
+    ],
+    "reference_image_url": "https://plantvillage.org",
+    "source": "PlantVillage Dataset",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  {
+    "id": "wheat_rust",
+    "plant": "Wheat",
+    "disease_name": "Leaf Rust",
+    "disease_name_ru": "Бурая листовая ржавчина",
+    "scientific_name": "Puccinia triticina",
+    "symptoms": [
+      "Small, round to oval orange-brown pustules on leaf surfaces",
+      "Pustules break through the epidermis, releasing dusty spores",
+      "Chlorosis (yellowing) and premature drying of heavily infected leaves",
+      "Reduced kernel weight and spike shriveling in severe cases"
+    ],
+    "treatment": [
+      "Plant rust-resistant wheat varieties certified for your region",
+      "Destroy volunteer wheat plants and weeds that act as green bridges",
+      "Avoid excessive nitrogen fertilization, which favors dense canopy growth",
+      "Apply approved triazole or strobilurin fungicides at early stages"
+    ],
+    "reference_image_url": "https://plantvillage.org",
+    "source": "PlantVillage Dataset",
+    "license": "CC BY-NC-SA 4.0"
+  }
+]
